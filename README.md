@@ -5,4 +5,5 @@
 
 ## certificate-sqli-guardium
 
-![Capture d'écran 2025-02-16 191924](https://github.com/user-attachments/assets/1fedda0c-3ce7-478b-be61-440610ecf7fc)
+![Capture d'écran 2025-04-03 140401](https://github.com/user-attachments/assets/8d1ca3aa-7162-477a-bea9-82609536bca3)
+
